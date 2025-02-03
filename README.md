@@ -11,6 +11,7 @@ TASK 1
 7. -O1 and -Ofast obj dump
 
 TASK 2
+
 1.Review spike simulation -O1 and Ofast simulation
 2.Observing the changes in registers for both compilers -O1 and Ofast
 
