@@ -12,7 +12,7 @@ TASK 1
 
 TASK 2
 
-1.Review spike simulation -O1 and Ofast simulation
+1.Review spike simulation -O1 and Ofast simulation of a program displaying sequence of cube of first 10 numbers
 
 2.Observing the changes in registers for both compilers -O1 and Ofast
 
